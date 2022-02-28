@@ -1,0 +1,6 @@
+name: SpawnParticle
+version: 0.1
+api: 4.0.0
+main: BeeAZZ\SpawnParticle\Main
+author: BeeAZZ
+description: Plugin Add Particle At Spawn
